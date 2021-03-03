@@ -144,6 +144,8 @@
     <ClCompile Include="ClassContainer.cpp" />
     <ClCompile Include="HolidayCalculator.cpp" />
     <ClCompile Include="InputValidator.cpp" />
+    <ClCompile Include="Location.cpp" />
+    <ClCompile Include="LocationManager.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="PeopleManager.cpp" />
     <ClCompile Include="Person.cpp" />
@@ -153,6 +155,8 @@
     <ClInclude Include="ClassContainer.h" />
     <ClInclude Include="Common.h" />
     <ClInclude Include="InputValidator.h" />
+    <ClInclude Include="Location.h" />
+    <ClInclude Include="LocationManager.h" />
     <ClInclude Include="Menu.h" />
     <ClInclude Include="PeopleManager.h" />
     <ClInclude Include="Person.h" />

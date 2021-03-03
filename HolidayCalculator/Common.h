@@ -13,6 +13,8 @@
 #include "InputValidator.h"
 #include "Person.h"
 #include "PeopleManager.h"
+#include "Location.h"
+#include "LocationManager.h"
 #include "ClassContainer.h"
 #include "Menu.h"
 
